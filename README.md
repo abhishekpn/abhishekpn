@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekpn
 - 👀 I’m interested in web development and Python Development
-- Google Certified Cloud Security Engineer
+- 👨‍🏫 Google Certified Cloud Security Engineer
 - 🌱 I’m currently learning Python Django Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on email: abpn04@gmail.com OR linkedin/abhishek-kumar-pandey-
